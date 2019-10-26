@@ -1,0 +1,25 @@
+{
+  "name": "sunnyquotes",
+  "version": "1.0.0",
+  "description": "RESTful API built with Express, Node.js and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jptheweatherman/sunnyquotes.git"
+  },
+  "author": "JPTheWeatherMan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jptheweatherman/sunnyquotes/issues"
+  },
+  "homepage": "https://github.com/jptheweatherman/sunnyquotes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
